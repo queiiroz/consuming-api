@@ -68,7 +68,7 @@
 
 /* VIDEO */
 
-.videos__container {
+.videos_container {
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
@@ -78,8 +78,8 @@
   display: block;
   height: 303px;
   width: 280px;
-  flex-grow: 1;
 }
+
 
 .descricao-video {
   margin-top: 1rem;
