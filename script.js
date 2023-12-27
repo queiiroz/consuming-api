@@ -53,3 +53,10 @@ categoria.forEach((botao) => {
   let nomeCategoria = botao.getAttribute("name");
   botao.addEventListener("click", () => filtrarCategoria(nomeCategoria));
 });
+
+function filtrarCategoria(filtro){
+    const videos = document.querySelectorAll(".videos__item")
+    for(let video of videos){
+        
+    }
+}
