@@ -10,3 +10,6 @@
 - Realizar tratamento de erros com os blocos
 - Try-Catch-Finally;
 - Tratar erros personalizados com o throw new Error.
+- Implementar uma barra de pesquisa para filtrar vídeos por título;
+- Refatorar o código para torná-lo mais sucinto e organizado;
+- Implementar funcionalidade ao filtro de categorias.
